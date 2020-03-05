@@ -1,0 +1,49 @@
+h1 {
+  display: inline-block;
+}
+
+body {
+  background-color: #eaffd0;
+}
+
+.shadowboxxx {
+  margin: 10px;
+  width: 15em;
+  border: 1px solid #333;
+  box-shadow: 8px 8px 5px #444;
+  padding: 8px 12px;
+  background-image: linear-gradient(180deg, #fff, #ddd 40%, #ccc);
+}
+
+.top_container {
+  background-color: #aa96da4d;
+  width: 200px;
+  height: 200px;
+  right: 7px;
+  position: relative;
+}
+
+.bottom_container {
+  background-color: #364f6b61;
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  left: 200px;
+}
+
+.third_container {
+  background-color: #c2e29b7d;
+  width: 200px;
+  height: 200px;
+  display: inline-block;
+  position: relative;
+  top: 200px;
+  left: -8px;
+}
+
+.perenapravlenie {
+  display: linear;
+  position: absolute;
+  right: 16px;
+  bottom: 27px;
+}
